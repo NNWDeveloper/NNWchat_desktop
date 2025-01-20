@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+   
 </head>
 
 <body>
@@ -12,10 +12,4 @@
     <h3>older versions:</h3>
     <ul><a href="https://github.com/NNWDeveloper/NNWchat_desktop/raw/refs/heads/main/NNWchat_desktop.WindowsInstaller0.0.1.exe">NNWchat_desktop_v0.0.1</a></ul>
 </body>
-</html><style>body{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box; 
-}</style><script>function main(){
-
-}</script>
+</html>
