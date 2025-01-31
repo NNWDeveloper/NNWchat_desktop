@@ -10,7 +10,7 @@
     <h2>latest version: <a href="https://github.com/NNWDeveloper/NNWchat_desktop/raw/refs/heads/main/NNWchat_desktop.WindowsInstaller0.0.3.exe">NNWchat_desktop_v0.0.3</a></h2>
     <br>
     <h3>older versions:</h3>
-    <ul><a href="https://github.com/NNWDeveloper/NNWchat_desktop/raw/refs/heads/main/NNWchat_desktop.WindowsInstaller0.0.2.exe">NNWchat_desktop_v0.0.1</a></ul>
+    <ul><a href="https://github.com/NNWDeveloper/NNWchat_desktop/raw/refs/heads/main/NNWchat_desktop.WindowsInstaller0.0.2.exe">NNWchat_desktop_v0.0.2</a></ul>
     <ul><a href="https://github.com/NNWDeveloper/NNWchat_desktop/raw/refs/heads/main/NNWchat_desktop.WindowsInstaller0.0.1.exe">NNWchat_desktop_v0.0.1</a></ul>
 </body>
 </html>
